@@ -8,3 +8,9 @@
 easy_admin:
     entities:
         - App\Entity\Product
+        - App\Entity\Customer
+        - App\Entity\Address
+        - App\Entity\PaymentType
+        - App\Entity\Order\Item
+        - App\Entity\Order\Status
+        - App\Entity\Order
