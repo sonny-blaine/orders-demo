@@ -41,7 +41,7 @@
 ### Reserva
 - Criar reserva
   - _Reserva criada_
-  - _Produto indisponível_
+  - _Produto indisponível_
   - _Quantidade do produto decrementada_
 - Inativar reserva
   - _Reserva inativada_
